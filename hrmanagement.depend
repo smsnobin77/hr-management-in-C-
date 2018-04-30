@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1502822236 source:g:\hrmanagement\main.cpp
+	<bits/stdc++.h>
+	"employeelv.h"
+	"person.h"
+	"Employee.h"
+	"userdetec.h"
+	"admindetec.h"
+
+1502821539 g:\hrmanagement\employeelv.h
+	<bits/stdc++.h>
+	<ctime>
+
+1486363839 g:\hrmanagement\person.h
+	<bits/stdc++.h>
+
+1486532910 g:\hrmanagement\employee.h
+	<bits/stdc++.h>
+	"person.h"
+	<ctime>
+
+1486349624 g:\hrmanagement\userdetec.h
+
+1486349617 g:\hrmanagement\admindetec.h
+	"userdetec.h"
+
